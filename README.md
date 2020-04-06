@@ -2,7 +2,7 @@
 This program uses A* Path finding algorithm
 You can read about this algorithm in wikipedia:
 https://en.wikipedia.org/wiki/A*_search_algorithm
-Pseudo Code:
+Wiki's Pseudo Code:
 ```python
 function reconstruct_path(cameFrom, current)
     total_path := {current}
@@ -64,7 +64,10 @@ function A_Star(start, goal, h)
     return failure
 
 ```
+I used this pseudo code for my reference
+
 Highlights:
 All the cells with white color represents closed set items
 All the cells with yellow color represents open list cells
 orange cell is the goal ce;;
+Thanks
