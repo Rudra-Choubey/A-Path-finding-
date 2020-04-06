@@ -70,4 +70,7 @@ Highlights:
 All the cells with white color represents closed set items
 All the cells with yellow color represents open list cells
 orange cell is the goal ce;;
+
+I used HTML Canvas for this project
+
 Thanks
